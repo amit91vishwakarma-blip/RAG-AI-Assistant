@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+streamlit
+requests
+pypdf
+beautifulsoup4
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-google-genai
+langchain-text-splitters
+chromadb
